@@ -10,7 +10,7 @@ O objetivo é construir um sistema inteligente capaz de identificar falhas em m�
 ## Arquivos e Pastas
 O diretório do projeto está dividido da seguinte maneira:
 
-   - [Projeto_Final_Eduardo_Scafi.pynb](Projeto_Final_Eduardo_Scafi.pynb): notebook Jupyter contendo a análise exploratória dos dados, pré-processamento e treino/teste dos modelos.
+   - [Projeto_Final_Eduardo_Scafi.ipynb](Projeto_Final_Eduardo_Scafi.ipynb): notebook Jupyter contendo a análise exploratória dos dados, pré-processamento e treino/teste dos modelos.
    - [Relatório_Bootcamp_CDIA.pdf](Relatório_Bootcamp_CDIA.pdf): documentação descrevendo etapas e detalhes do processo de desenvolvimento da modelagem preditiva.
    - [bootcamp_train.csv](bootcamp_train.csv): dataset fornecido para análise.
    - [bootcamp_train_tratado.csv](bootcamp_train_tratado.csv): dataset tratado para treino e teste.
