@@ -10,11 +10,11 @@ O objetivo é construir um sistema inteligente capaz de identificar falhas em m�
 ## Arquivos e Pastas
 O diretório do projeto está dividido da seguinte maneira:
 
-   - Projeto_Final_Eduardo_Scafi.pynb: notebook Jupyter contendo a análise exploratória dos dados, pré-processamento e treino/teste dos modelos.
-   - Relatório - Bootcamp CDIA.pdf: documentação descrevendo etapas e detalhes do processo de desenvolvimento da modelagem preditiva.
-   - bootcamp_train.csv: dataset fornecido para análise.
-   - bootcamp_train_tratado.csv: dataset tratado para treino e teste.
-   - bootcamp_test.csv: dataset fornecido para validação dos métodos.
-   - predicoes_modelo_binario.csv: dataset de predições gerado a partir do modelo binário adotado.
-   - predicoes_modelo_multiclasse.csv: dataset de predições gerado a partir do modelo multiclasse adotado.
-   - predicoes_modelo_multirrotulo.csv: dataset de predições gerado a partir do modelo multirrótulo adotado.
+   - [Projeto_Final_Eduardo_Scafi.pynb](Projeto_Final_Eduardo_Scafi.pynb): notebook Jupyter contendo a análise exploratória dos dados, pré-processamento e treino/teste dos modelos.
+   - [Relatório_Bootcamp_CDIA.pdf](Relatório_Bootcamp_CDIA.pdf): documentação descrevendo etapas e detalhes do processo de desenvolvimento da modelagem preditiva.
+   - [bootcamp_train.csv](bootcamp_train.csv): dataset fornecido para análise.
+   - [bootcamp_train_tratado.csv](bootcamp_train_tratado.csv): dataset tratado para treino e teste.
+   - [bootcamp_test.csv](bootcamp_test.csv): dataset fornecido para validação dos métodos.
+   - [predicoes_modelo_binario.csv](predicoes_modelo_binario.csv): dataset de predições gerado a partir do modelo binário adotado.
+   - [predicoes_modelo_multiclasse.csv](predicoes_modelo_multiclasse.csv): dataset de predições gerado a partir do modelo multiclasse adotado.
+   - [predicoes_modelo_multirrotulo.csv](predicoes_modelo_multirrotulo.csv): dataset de predições gerado a partir do modelo multirrótulo adotado.
